@@ -84,6 +84,8 @@ The data of interest is in the 3_1_GeneratorYyyyy data file (the exact name of t
 
 This data was then combined in Stata with the EIA-923 data
 
+-------------------
+
 #### Compare EPA and EIA data
 As the main goal was to compare EIA and EPA Clean Air Markets Data, the data of particular concern was the “Electricity Net Generation (MWh)”.
 
