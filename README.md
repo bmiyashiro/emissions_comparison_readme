@@ -1,5 +1,5 @@
-# emissions_comparison_readme
-## ReadMe file for EPA v. EIA Comparison Methods Document
+# Emissions Comparison
+## For EPA v. EIA Comparison Methods Document
 ### Description: This explains how to compare power plant emissions data from EPA Clean Air Markets Data and EIA Data.
 -------------------
 #### EPA Clean Air Markets CEMS Emissions Data
